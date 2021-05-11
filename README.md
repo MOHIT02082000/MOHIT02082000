@@ -11,8 +11,8 @@ I'm an *Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pcc
 - ⚡Fun-Fact: I love Travelling..
 - 🏏🎾🎵🥾Hobbies: Sports,Music,Reading,Hiking.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-    -💻Web Development
-    -🖼 Machine Learning
+ -💻Web Development
+ -🖼 Machine Learning
 - 📙 Check out my  [Resume](https://drive.google.com/file/d/1iXlvpCcUqw_7sL4BD7Ka8jVl2bkw7fJQ/view?usp=sharing)
 
 
