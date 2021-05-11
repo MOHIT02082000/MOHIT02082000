@@ -11,20 +11,20 @@ I'm an *Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pcc
 - ⚡Fun-Fact: I love Travelling..
 - 🏏🎾🎵🥾Hobbies: Sports,Music,Reading,Hiking.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  -💻Web Development
-  -🖼 Machine Learning
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1iXlvpCcUqw_7sL4BD7Ka8jVl2bkw7fJQ/view?usp=sharing)
+    -💻Web Development
+    -🖼 Machine Learning
+- 📙 Check out my  [Resume](https://drive.google.com/file/d/1iXlvpCcUqw_7sL4BD7Ka8jVl2bkw7fJQ/view?usp=sharing)
 
 
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/MOHIT02082000)](https://github.com/MOHIT02082000) 
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&link=https://github.com/MOHIT02082000)](https://github.com/MOHIT02082000) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-gandhi-296255170/)](https://www.linkedin.com/in/mohit-gandhi-296255170/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohitsgandhi91@gmail.com)](mailto:mohitsgandhi91@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohitsgandhi91@gmail.com)](mailto:mohitsgandhi91@gmail.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15897308/mohit-gandhi?tab=profile)](https://stackoverflow.com/users/15897308/mohit-gandhi?tab=profile)
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=flat-square&logo=Devpost&logoColor=white&link=https://devpost.com/mohitsgandhi91)](https://devpost.com/mohitsgandhi91)
 [![Hackster](https://img.shields.io/badge/-Hackster-1BACF7?style=flat-square&logo=Hackster&logoColor=white&link=https://www.hackster.io/mohitsgandhi91)](https://www.hackster.io/mohitsgandhi91)
-[![CodeChef 2 Star](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/mohitgandhi020)](https://www.codechef.com/users/mohitgandhi020)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/mohitgandhi020)](https://www.codechef.com/users/mohitgandhi020)
 
 
 ## GitHub stats:
@@ -37,10 +37,9 @@ I'm an *Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pcc
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 *Technology* | 🚀 *Projects* |
 |-|-|
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![MediBox-RaspberryPi](https://img.shields.io/static/v1?label=MediBox-RaspberryPi&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/MediBox-RaspberryPi) [![mango-disease-identification](https://img.shields.io/static/v1?label=mango-disease-identification&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/mango-disease-identification) [![detall](https://img.shields.io/static/v1?label=detall&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/detall)|
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Iot + Blockchain](https://img.shields.io/static/v1?label=IoT+Blockchain&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/iot-block) [![BULLY-IN-SPECT](https://img.shields.io/static/v1?label=BULLY-IN-SPECT&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/BULLY-IN-SPECT) |
-| [![Android](https://img.shields.io/static/v1?label=&message=Android&color=47d147&logo=android&logoColor=FFFFFF)](https://nodejs.org/en/) | [![micro-health](https://img.shields.io/static/v1?label=micro-health&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/micro-health) [![MediBox](https://img.shields.io/static/v1?label=MediBox-App&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/MediBox) |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.JS/React&color=4FA1EF&logo=node.js&logoColor=FFFFFF)](https://kotlinlang.org/) | [![Peercode](https://img.shields.io/static/v1?label=PeerCode&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/Peer-Code) [![safemailer](https://img.shields.io/static/v1?label=Safemailer&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aniketdhole07/safemailer) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Cartoonize](https://img.shields.io/static/v1?label=Cartoonize&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/Cartoonize) [![mango-disease-identification](https://img.shields.io/static/v1?label=mango-disease-identification&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/mango-disease-identification)|
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![coding-kid](https://img.shields.io/static/v1?label=coding-kid&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/coding-kid).[![port-your-folio](https://img.shields.io/static/v1?label=Port-your-Folio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/port-your-folio).[![Dicee-Game](https://img.shields.io/static/v1?label=Dicee-Game&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/Dicee-Game).[![Drum-Kit](https://img.shields.io/static/v1?label=Drum-Kit&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/Drum-Kit).[![Memory-Game](https://img.shields.io/static/v1?label=Memory-Game&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/Memory-Game) |
+| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.JS/React&color=4FA1EF&logo=node.js&logoColor=FFFFFF)](https://kotlinlang.org/) | [![Peercode](https://img.shields.io/static/v1?label=PeerCode&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/Peer-Code) [![TO-DO-LIST](https://img.shields.io/static/v1?label=TO-DO-LIST&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/MOHIT02082000/TO-DO-LIST) |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
