@@ -10,7 +10,7 @@ I'm an *Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pcc
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
  -💻Web Development
  -🖼 Machine Learning
-- 📙 Check out my  [Resume](https://drive.google.com/file/d/18dDhUMRuWwy1YHvCiaG4bMnPemA2IOhq/view?usp=sharing)
+- 📙 Check out my  [Resume](https://docs.google.com/document/d/1D96QUpwN-SXw_9Fa1nCkriIB7RM0hGD_7x0eUgsTsr0/edit?usp=sharing)
 
 
 
