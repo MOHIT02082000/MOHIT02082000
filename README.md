@@ -22,7 +22,7 @@ I'm an *Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pcc
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=flat-square&logo=Devpost&logoColor=white&link=https://devpost.com/mohitsgandhi91)](https://devpost.com/mohitsgandhi91)
 [![Hackster](https://img.shields.io/badge/-Hackster-1BACF7?style=flat-square&logo=Hackster&logoColor=white&link=https://www.hackster.io/mohitsgandhi91)](https://www.hackster.io/mohitsgandhi91)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/mohitgandhi020)](https://www.codechef.com/users/mohitgandhi020)
-[![Twitter](https://img.shields.io/badge/-Twitter-5B4638?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/MohitGandhi28)](https://twitter.com/MohitGandhi28)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5B4638?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/MohitGandhi28)](https://twitter.com/MohitGandhi28)
 
 ## GitHub stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
