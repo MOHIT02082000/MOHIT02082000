@@ -10,7 +10,7 @@ I'm currently enrolled in *Masters in Computer Science and Engineering* at *Stat
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
  -💻Web Development
  -🖼 Machine Learning
-- 📙 Check out my  [Resume](https://drive.google.com/file/d/1WuHBIm7C-si3Z9kxvsQLJD6w1DD1lWZS/view?usp=sharing)
+- 📙 Check out my  [Resume](https://drive.google.com/file/d/1bY5tpV9XTf8zV1dpjrDkAOBC1Ikcue3E/view?usp=sharing)
 
 
 
