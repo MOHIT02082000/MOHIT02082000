@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an *Undergrad Computer Engineering Student🎓 [@PCCOE Pune](https://www.pccoepune.com/)***. I am passionate about Web Developemnt and Sodtware Development. My keen interest is in Frontend Developemnt.I love to think creatively that can be done to a website. I have also interest in Machine Learning and have created few projects.<br/><br/>
+I'm currently enrolled in *Masters in Computer Science and Engineering* at *State University of New York,Buffalo*🎓. I have completed my Undergrad in  Computer Engineering [@PCCOE Pune](https://www.pccoepune.com/)***. I am passionate about Web Developemnt and Sodtware Development. My keen interest is in Frontend Developemnt.I love to think creatively that can be done to a website. I have also interest in Machine Learning and have created few projects.<br/><br/>
 
 - 👯 I’m looking to participate in Open-Source Project.
 - 😄 Pronouns: He/Him
