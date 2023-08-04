@@ -11,7 +11,7 @@ I'm currently pursuing my *Masters in Computer Science and Engineering* at *Stat
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
  -💻Web Development
  -🖼 Machine Learning
-- 📙 Check out my  [Resume]([https://drive.google.com/file/d/1kv7RhFaMeUPDutY8veb-_1KDtI8V_3Xd/view?usp=sharing](https://drive.google.com/file/d/1-hya_cx8A5doTh3aPenit92aWNLrPOeW/view?usp=sharing)
+- 📙 Check out my  [Resume]([[https://drive.google.com/file/d/1-hya_cx8A5doTh3aPenit92aWNLrPOeW/view?usp=sharing]])
 
 
 
