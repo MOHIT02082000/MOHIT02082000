@@ -1,18 +1,17 @@
 ### Hi Everyone 👋
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm currently enrolled in *Masters in Computer Science and Engineering* at *State University of New York,Buffalo*🎓. I have completed my Undergrad in  Computer Engineering [@PCCOE Pune](https://www.pccoepune.com/)*. I am passionate about Web Developemnt and Software Development. My keen interest is in Frontend Developemnt.I love to think creatively that can be done to a website. I have also interest in Machine Learning and have created few projects.<br/><br/>
+I'm currently pursuing my *Masters in Computer Science and Engineering* at *State University of New York,Buffalo*🎓. I have completed my Undergrad in  Computer Engineering [@PCCOE Pune](https://www.pccoepune.com/)*. I am passionate about Web Developemnt and Software Development. My keen interest is in Frontend Developemnt.I love to think creatively that can be done to a website. I have also interest in Machine Learning and have created few projects.<br/><br/>
 
 [My Website](https://mohitgandhi.in/)
 
-- 👯 I’m looking to participate in Open-Source Project.
-- 😄 Pronouns: He/Him
+- 👯 Currently working and studying PowerBI anc SwiftProgramming
 - ⚡Fun-Fact: I love Travelling..
-- 🏏🎾🎵🥾Hobbies: Sports,Music,Reading,Hiking.
+- 🏏🎾🎵🥾Hobbies: Sports,Music,Drawing,Hiking.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
  -💻Web Development
  -🖼 Machine Learning
-- 📙 Check out my  [Resume](https://drive.google.com/file/d/1kv7RhFaMeUPDutY8veb-_1KDtI8V_3Xd/view?usp=sharing)
+- 📙 Check out my  [Resume]([https://drive.google.com/file/d/1kv7RhFaMeUPDutY8veb-_1KDtI8V_3Xd/view?usp=sharing](https://drive.google.com/file/d/1-hya_cx8A5doTh3aPenit92aWNLrPOeW/view?usp=sharing))
 
 
 
