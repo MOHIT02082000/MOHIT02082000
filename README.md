@@ -11,8 +11,8 @@ I'm currently pursuing my *Masters in Computer Science and Engineering* at *Stat
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
  -💻Web Development
  -🖼 Machine Learning
-- 📙 Check out my [Resume](https://mohitgandhi.in/)
-
+- 📙 Check out my [SDE Resume](https://drive.google.com/file/d/1MMsCVhb5te9ElEI6o1kjD0VW_ibsOVZ1/view?usp=sharing)
+- 📙 Check out my [DataScience/Data Analyst/ML Resume](https://drive.google.com/file/d/1foQlPuNwUbzJy_Y2sQgVs33KhStt121y/view?usp=sharing)
 
 
 #### 📬 Find me at
