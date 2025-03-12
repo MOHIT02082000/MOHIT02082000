@@ -42,3 +42,7 @@ I'm currently pursuing my *Masters in Computer Science and Engineering* at *Stat
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ![](https://komarev.com/ghpvc/?username=MOHIT02082000)
+
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/MOHIT02082000/count.svg?align=center)
